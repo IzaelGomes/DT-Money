@@ -9,6 +9,5 @@ export function App() {
       <GlobalStyle />
       <Transactions/>
       </ThemeProvider>
- 
   );
 }
