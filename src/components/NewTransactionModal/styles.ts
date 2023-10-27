@@ -14,7 +14,6 @@ export const Overlay = styled(Dialog.Overlay)`
 
 `
 
-
 export const Content = styled(Dialog.Content)`
     min-width: 32rem;
     border-radius: 6px;
